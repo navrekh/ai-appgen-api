@@ -8,8 +8,8 @@
     "dev": "NODE_ENV=development nodemon src/index.js",
     "start": "node src/index.js"
   },
-  "dependencies": {
-    "@google-cloud/cloudbuild": "^6.3.0",
+  "@google-cloud/cloudbuild": "^6.3.0"
+    "@google-cloud/cloudbuild": "^5.4.0"
     "@google/generative-ai": "^0.11.4",
     "adm-zip": "^0.5.12",
     "cors": "^2.8.5",
